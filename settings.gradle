@@ -1,0 +1,2 @@
+rootProject.name = "ProjectCoba"
+include ':app'

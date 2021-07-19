@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "296851663320",
+    "firebase_url": "https://learning-d6959-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learning-d6959",
+    "storage_bucket": "learning-d6959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296851663320:android:50c4107890bef0f83beaad",
+        "android_client_info": {
+          "package_name": "com.teamdagger.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296851663320-cllqsbn6c3bf9s57rkmq9od7961jhvpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5GlHO6UAEzz0DMwVG2kxnBN253KB5edU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296851663320-cllqsbn6c3bf9s57rkmq9od7961jhvpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296851663320:android:36c349af36be82b53beaad",
+        "android_client_info": {
+          "package_name": "com.teamdagger.projectcoba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296851663320-cllqsbn6c3bf9s57rkmq9od7961jhvpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5GlHO6UAEzz0DMwVG2kxnBN253KB5edU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296851663320-cllqsbn6c3bf9s57rkmq9od7961jhvpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
